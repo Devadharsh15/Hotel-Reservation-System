@@ -1,4 +1,4 @@
-Use Project
+
 
 ---creating the table for customer---
 Create table Customer(
