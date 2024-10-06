@@ -1,5 +1,3 @@
-
-
 ---creating the table for customer---
 Create table Customer(
 Customer_id int primary key,
